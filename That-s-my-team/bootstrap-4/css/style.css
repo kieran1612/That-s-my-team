@@ -1,0 +1,7 @@
+html, body {
+    background:url('../img/untitledcollage.jpg') center center no-repeat;
+    height: 100%;
+    width: 1250px;
+    background-size: auto;
+    background-color: black;
+}
